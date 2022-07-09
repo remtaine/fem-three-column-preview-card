@@ -21,15 +21,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-FEM/design/active-states.jpg
-FEM/design/desktop-design.jpg
-FEM/design/desktop-preview.jpg
-FEM/design/mobile-design.jpg
-FEM/images/favicon-32x32.png
-FEM/images/icon-luxury.svg
-FEM/images/icon-sedans.svg
-FEM/images/icon-suvs.svg
-FEM/index.html
-FEM/README-template.md
-FEM/README.md
-FEM/style-guide.md
+/FEM
