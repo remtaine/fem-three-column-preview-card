@@ -7,7 +7,9 @@ function PreviewButton(props) {
     )
 }
 
-PreviewButton.propTypes = {}
+PreviewButton.propTypes = {
+    textColor: PropTypes.string,
+}
 
 export default PreviewButton
 
